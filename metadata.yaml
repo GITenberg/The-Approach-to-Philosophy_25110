@@ -1,0 +1,34 @@
+_repo: The-Approach-to-Philosophy_25110
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perry, Ralph Barton
+    birthdate: 1876
+    deathdate: 1957
+    gutenberg_agent_id: '25133'
+    url: http://www.gutenberg.org/2009/agents/25133
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Barton_Perry
+description: Cover; The Approach to Philosophy; Copyright; Preface; Table Of Contents;
+  Part I; Approach To The Problem Of Philosophy; Chapter I; The Practical Man And
+  The Philosopher; Chapter II; Poetry And Philosophy; Chapter III; The Religious Experience;
+  Chapter IV; The Philosophical Implications Of Religion; Chapter V; Natural Science
+  And Philosophy; Part II; The Special Problems Of Philosophy; Chapter VI; Metaphysics
+  And Epistemology; Chapter VII; The Normative Sciences And The Problems Of Religion;
+  Part III; Systems Of Philosophy; Chapter VIII; Naturalism[223:1]; Chapter IX; Subjectivism[267:1].
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2008-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25110'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'BD'
+title: The Approach to Philosophy
+url: http://www.gutenberg.org/ebooks/25110
